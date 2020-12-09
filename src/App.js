@@ -5,7 +5,7 @@ import { cocktails } from './cocktails';
 
 const App = () => {
 return (
-    <div>
+    <div className = 'tc'>
     <h1>Intro Cocktails</h1>
     <SearchBox />
     <CardList cocktails={cocktails}/>
