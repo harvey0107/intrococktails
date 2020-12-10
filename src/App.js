@@ -14,17 +14,16 @@ class App extends Component {
 
     onSearchChange = (event) => {
         this.setState({searchfield: event.target.value})
-      const filteredCocktails = this.state.cocktails.filter(cocktails =>{
-        return cocktails.name.toLowerCase().includes(this.state.searchfield.toLowerCase())
-      })  
-      console.log(filteredCocktails)
     }
     render() {
+        const filteredCocktails = this.state.cocktails.filter(cocktails =>{
+            return cocktails.name.toLowerCase().includes(this.state.searchfield.toLowerCase())
+        })
         return (
             <div className = 'tc'>
             <h1>Intro Cocktails</h1>
             <SearchBox searchChange = {this.onSearchChange}/>
-            <CardList cocktails={this.state.cocktails}/>
+            <CardList cocktails={filteredCocktails}/>
             </div>
             );
     }
