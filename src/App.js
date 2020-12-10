@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import CardList from './CardList';
 import SearchBox from './SearchBox';
 import { cocktails } from './cocktails';
+import './App.css';
 
 class App extends Component {
     constructor(){
@@ -21,7 +22,8 @@ class App extends Component {
         })
         return (
             <div className = 'tc'>
-            <h1>Intro Cocktails</h1>
+            <h1 className = 'f1'>Introduction The World Essential Classic Cocktails</h1>
+            <h3 className = 'f3'>The Professional Bartender's Handbook</h3>
             <SearchBox searchChange = {this.onSearchChange}/>
             <CardList cocktails={filteredCocktails}/>
             </div>
