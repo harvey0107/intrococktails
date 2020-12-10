@@ -7,15 +7,23 @@ class App extends Component {
     constructor(){
         super()
         this.state = {
-        cocktails: cocktails,
-        searchfield: '' 
+            cocktails: cocktails,
+            searchfield: '' 
        } 
+    }
+
+    onSearchChange = (event) => {
+        this.setState({searchfield: event.target.value})
+      const filteredCocktails = this.state.cocktails.filter(cocktails =>{
+        return cocktails.name.toLowerCase().includes(this.state.searchfield.toLowerCase())
+      })  
+      console.log(filteredCocktails)
     }
     render() {
         return (
             <div className = 'tc'>
             <h1>Intro Cocktails</h1>
-            <SearchBox />
+            <SearchBox searchChange = {this.onSearchChange}/>
             <CardList cocktails={this.state.cocktails}/>
             </div>
             );
