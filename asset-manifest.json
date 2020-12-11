@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/intrococktails/static/css/main.542d268e.chunk.css",
+    "main.js": "/intrococktails/static/js/main.4a45187c.chunk.js",
+    "main.js.map": "/intrococktails/static/js/main.4a45187c.chunk.js.map",
+    "runtime-main.js": "/intrococktails/static/js/runtime-main.dd7b7fb0.js",
+    "runtime-main.js.map": "/intrococktails/static/js/runtime-main.dd7b7fb0.js.map",
+    "static/css/2.31461e4f.chunk.css": "/intrococktails/static/css/2.31461e4f.chunk.css",
+    "static/js/2.9ad14120.chunk.js": "/intrococktails/static/js/2.9ad14120.chunk.js",
+    "static/js/2.9ad14120.chunk.js.map": "/intrococktails/static/js/2.9ad14120.chunk.js.map",
+    "static/js/3.eafcc8d6.chunk.js": "/intrococktails/static/js/3.eafcc8d6.chunk.js",
+    "static/js/3.eafcc8d6.chunk.js.map": "/intrococktails/static/js/3.eafcc8d6.chunk.js.map",
+    "index.html": "/intrococktails/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/intrococktails/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.542d268e.chunk.css.map": "/intrococktails/static/css/main.542d268e.chunk.css.map",
+    "static/js/2.9ad14120.chunk.js.LICENSE.txt": "/intrococktails/static/js/2.9ad14120.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/intrococktails/static/media/Marlowe Cocktail.a951786c.woff",
+    "static/media/index.css": "/intrococktails/static/media/Marlowe Swirl.cbc2128e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd7b7fb0.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.9ad14120.chunk.js",
+    "static/css/main.542d268e.chunk.css",
+    "static/js/main.4a45187c.chunk.js"
+  ]
+}
