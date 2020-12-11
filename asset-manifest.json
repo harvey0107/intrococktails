@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/intrococktails/static/css/main.542d268e.chunk.css",
-    "main.js": "/intrococktails/static/js/main.4a45187c.chunk.js",
-    "main.js.map": "/intrococktails/static/js/main.4a45187c.chunk.js.map",
+    "main.js": "/intrococktails/static/js/main.8c2baf50.chunk.js",
+    "main.js.map": "/intrococktails/static/js/main.8c2baf50.chunk.js.map",
     "runtime-main.js": "/intrococktails/static/js/runtime-main.dd7b7fb0.js",
     "runtime-main.js.map": "/intrococktails/static/js/runtime-main.dd7b7fb0.js.map",
     "static/css/2.31461e4f.chunk.css": "/intrococktails/static/css/2.31461e4f.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.31461e4f.chunk.css",
     "static/js/2.9ad14120.chunk.js",
     "static/css/main.542d268e.chunk.css",
-    "static/js/main.4a45187c.chunk.js"
+    "static/js/main.8c2baf50.chunk.js"
   ]
 }
