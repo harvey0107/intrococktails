@@ -16,7 +16,7 @@ export const cocktails = [
       ingredients: 'Gin, Ginger liqueur, Simple syrup, b’Lure butterfly pea flower extract, Fresh lemon juice',
     },
     {
-      id: 'https://static.vinepair.com/wp-content/uploads/2020/04/tomcollins_internal.jpg',
+      id: 'https://i.insider.com/5af59349965f4c30008b47b4?width=1136&format=jpeg',
       name: 'Gin Tonic',
       ingredients: 'gin, tonicwater, lime',
     },
