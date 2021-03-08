@@ -21,7 +21,7 @@ export const cocktails = [
       ingredients: 'gin, tonicwater, lime',
     },
     {
-      id: 'https://static.vinepair.com/wp-content/uploads/2020/04/Boulevardier_internal.jpg',
+      id: 'https://alushlifemanual.com/wp-content/uploads/2020/04/Boulevardier-1-1024x683.jpg',
       name: 'Boulevardier',
       ingredients: 'amaro, sweet vermouth, orange',
     },
