@@ -26,7 +26,7 @@ export const cocktails = [
       ingredients: 'amaro, sweet vermouth, orange',
     },
     {
-      id: 'https://static.vinepair.com/wp-content/uploads/2020/04/oldfashioned_internal.jpg',
+      id: 'https://recipecontent.fooby.ch/13463_3-2_1920-1280.jpg',
       name: 'Old Fashioned',
       ingredients: 'bourbon, sugar cube, Angostura bitters, orange',
     },
