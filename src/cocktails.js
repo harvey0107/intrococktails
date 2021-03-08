@@ -66,6 +66,11 @@ export const cocktails = [
       ingredients: 'Tequila, Lime juice, Cointreau',
     },
     {
+      id: 'https://vinepair.com/wp-content/uploads/2018/10/BestPractices_Mojito_INternal.jpg',
+      name: 'Mojito',
+      ingredients: 'Rum, Lime juice, Sugar, Mint, Soda Water',
+    },
+    {
       id: 'https://i.pinimg.com/originals/b3/e0/83/b3e083e0e7ad8cab11e8110598072917.jpg',
       name: 'Lava Flow',
       ingredients: 'light rum, banana, Malibu coconut rum, coconut cream, pineapple juice, pineapple wedge, ice',
