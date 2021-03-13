@@ -22,7 +22,7 @@ class App extends Component {
         })
         return (
             <div className = 'tc'>
-            <h1 className = 'f1'>Introduction The World Essential Classic Cocktails</h1>
+            <h1 className = 'f1'>Introduction Of World Essential Classic Cocktails</h1>
             <h3 className = 'f3'>The Professional Bartender's Handbook</h3>
             <SearchBox searchChange = {this.onSearchChange}/>
             <CardList cocktails={filteredCocktails}/>
